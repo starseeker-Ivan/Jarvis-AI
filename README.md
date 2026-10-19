@@ -1,3 +1,5 @@
+Guys there's a problem with the file uploading. Give me a few days, I'll fix it.
+
 After you install this, remember to take the folder outside the Jarvis-AI file.
 
 # Jarvis — Personal AI Assistant (macOS)
